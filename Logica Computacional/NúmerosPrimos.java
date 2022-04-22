@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class NúmerosPrimos{
     public static void main(String[]args){
     Scanner ent = new Scanner(System.in);
 

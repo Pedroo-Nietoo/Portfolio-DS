@@ -1,5 +1,5 @@
 import java.util.Scanner; //Importa o Scanner
-public class Main{
+public class AprendendoScanner{
     public static void main(String[]args){
         Scanner entrada = new Scanner(System.in); //Cria e nomeia o Scanner. Faz importar dados
         
