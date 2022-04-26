@@ -36,6 +36,7 @@
 <hr>
  
  <h3 align="Center"> Justificativa das ativifades escolhidas </h3>
+ 
  ### Fundamentos de Design
  - 1
  - 2
