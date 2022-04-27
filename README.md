@@ -38,16 +38,16 @@
  <h3 align="Center"> Justificativa das atividades escolhidas </h3>
  
  ### Fundamentos de Design
- - 1
- - 2
- - 3
+ - Cassineiro: 
+ - Iagens Monocromáticas: 
+ - Redes Sociais - Transformers: 
 
 ### Fundamentos de TI
-- 1
-- 2
-- 3
+- Atividade - Manipulação de Diretórios:
+- Atividade - Segurança da Informação:
+- Exercício - Sistemas Operacionais:
 
 ### Lógica Computacional
-- 1
-- 2
-- 3
+- Aprendendo Scanner:
+- Calcular Média:
+- Números Primos:
