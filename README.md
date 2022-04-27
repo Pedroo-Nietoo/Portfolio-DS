@@ -35,7 +35,7 @@
 
 <hr>
  
- <h3 align="Center"> Justificativa das ativifades escolhidas </h3>
+ <h3 align="Center"> Justificativa das atividades escolhidas </h3>
  
  ### Fundamentos de Design
  - 1
