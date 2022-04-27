@@ -43,9 +43,9 @@
  - Redes Sociais - Transformers: 
 
 ### Fundamentos de TI
-- Atividade - Manipulação de Diretórios:
-- Atividade - Segurança da Informação:
-- Exercício - Sistemas Operacionais:
+- Atividade - Manipulação de Diretórios: A atividade foi escolhida para o portfólio por apresentar os princípios básicos da utilização de comandos no terminal do Git Bash;
+- Atividade - Segurança da Informação: A atividade foi posta por apresentar exemplos cotidianos sobre os princípios de Segurança da Informação, bem como sua importância no âmbito tecnológico;
+- Exercício - Sistemas Operacionais: Escolhi esta atividade por apresentar os conceitos básicos sobre Sistemas operacionais através de atividades práticas.
 
 ### Lógica Computacional
 - Aprendendo Scanner: Escolhi essa atividade pois ela representa um pouco de tudo que aprendemos através do site <i> OnlineGDB </i>;
