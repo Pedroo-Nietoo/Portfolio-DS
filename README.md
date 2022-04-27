@@ -48,6 +48,6 @@
 - Exercício - Sistemas Operacionais:
 
 ### Lógica Computacional
-- Aprendendo Scanner:
-- Calcular Média:
-- Números Primos:
+- Aprendendo Scanner: Escolhi essa atividade pois ela representa um pouco de tudo que aprendemos através do site <i> OnlineGDB </i>;
+- Calcular Média: Eu pus essa atividade por ser minha primeira interação com GUIs utilizando o JOptionPane em sala de aula.
+- Números Primos: Por ter sido uma atividade desafiadora e interessante, decidi colocá-la no portfólio.
