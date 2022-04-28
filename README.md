@@ -40,7 +40,7 @@
  
  ### Fundamentos de Design
  - Cassineiro: Escolhi o <i> Cassineiro </i> pois eu e meus amigos temos vontade de realizar esse projeto desde o ano passado. Poder ter feito um protótipo de como seria me deixa muito feliz! 
- - Iagens Monocromáticas: Escolhi essa atividade pois adorei estudar sobre cores, e isso me motivou a colocá-la aqui.
+ - Imagens Monocromáticas: Escolhi essa atividade pois adorei estudar sobre cores, e isso me motivou a colocá-la aqui.
  - Redes Sociais - Transformers: Por termos realizado essa atividade de uma forma divertida e por termos estado muito satisfeitos com o resultados dessa atividade, resolvemos também colocá-la.
 
 ### Fundamentos de TI
