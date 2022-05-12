@@ -31,8 +31,9 @@
 - Gerenciamento de tempo.
 
 ### 🗺 Línguas
+- Português;
 - Inglês;
-- Espanhol;
+- Espanhol.
 
 <hr>
  
