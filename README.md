@@ -6,7 +6,7 @@
  <br>
  
 ### O que encontrará neste repositório?
-##### ☀ Este repositório é direcionado à construção do Portfólio do Ensino Médio
+##### 🪐 Este repositório é direcionado à construção do Portfólio do Ensino Médio
  
 </div>
 <hr>
