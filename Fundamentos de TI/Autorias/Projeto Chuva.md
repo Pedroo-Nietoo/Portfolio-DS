@@ -104,10 +104,10 @@ void loop()
 }
 
 void tom(char pino, int frequencia, int duracao){
-  float periodo = 1000.0/frequencia; //Periodo em ms
-  for (int i = 0; i< duracao/(periodo);i++){ //Executa a rotina de dentro o tanta de vezes que a frequencia desejada cabe dentro da duracao
+  float periodo = 1000.0/frequencia;
+  for (int i = 0; i< duracao/(periodo);i++){
     digitalWrite(pino,HIGH);
-    delayMicroseconds(periodo*500); //Metade do periodo em ms
+    delayMicroseconds(periodo*500);
     digitalWrite(pino, LOW);
     delayMicroseconds(periodo*500);
   }
@@ -121,6 +121,5 @@ void apagaleds()
   digitalWrite(pino_led_amarelo, LOW);
   digitalWrite(pino_led_verde, LOW);
 }
-```
-  
+``` 
 </div>
