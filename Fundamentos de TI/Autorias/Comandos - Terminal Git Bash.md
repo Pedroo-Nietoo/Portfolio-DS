@@ -1,6 +1,8 @@
 <div align="center">
-  <h1> Autoria - Terminal Linux + GitHub </h1>
+  <h1> Autoria - Terminal Linux + GitHub (GitBash) </h1>
   <p> Comandos aprendidos para fazer a <i>linkagem</i> entre os arquivos do usuário e o GitHub através do terminal Linux </p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-22272e?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-22272e?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 <br>
 
