@@ -3,13 +3,13 @@
   <h3> IDE utilizado: </p>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-22272e?style=for-the-badge&logo=Arduino&logoColor=00979D"/>
 
-<br>
+<br><br>
 
 <h3> Bibliotecas utilizadas: </h3>
 <img src="https://www.ardu-badge.com/badge/LiquidCrystal%20I2C.svg"/>
-<img src="https://www.ardu-badge.com/badge/Wire.svg"/><br>
+<img src="https://www.ardu-badge.com/badge/Wire.svg"/><br><br>
 
-<br>
+<br><br>
 
 <h3> Código: </h3>
 </div>
