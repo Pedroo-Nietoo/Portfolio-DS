@@ -2,7 +2,7 @@
 <h1> Portfólio </h1>
 
 ### 👋🏼 Olá, sou o _Pedro Nieto_
-##### Almejo ser um desenvolvedor _full-stack_
+ 
  <br>
  
 ### O que encontrará neste repositório?
@@ -16,7 +16,7 @@
 - Voleibol;
 - Escotismo;
 - Estudar e ler;
-- Sair com amigos.
+- Sair com amigos e família.
 
 ### 🤝🏼 Soft Skills
 - Empatia;
