@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Autoria 1 - Terminal Linux + GitHub </h1>
-  <p> Comandos aprendidos para fazer a <i>linkagem</i> entre os arquivos do usuário e o GitHub através do terminal Linux </p>
+  <h1> Autorias </h1>
+  <p> Pasta dedicada a arquivar às autorias da matéria de Fundamentos de TI </p>
 </div>
 <br>
 
