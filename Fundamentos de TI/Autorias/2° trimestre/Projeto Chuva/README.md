@@ -12,4 +12,8 @@
   <h3> Bibliotecas utilizadas: </h3>
   <img src="https://www.ardu-badge.com/badge/LiquidCrystal%20I2C.svg"/><br>
   <img src="https://www.ardu-badge.com/badge/Wire.svg"/><br><br>
+  
+  <br><br>
+  
+  <h2> Funcionamento: </h3>
 </div>
