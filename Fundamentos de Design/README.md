@@ -1,1 +1,10 @@
-[Redes sociais - Transformers](https://www.figma.com/file/f2e7mxDHXa8YHKkZuT98Ff/Redes-sociais---Transformers?node-id=0%3A1)
+<div align="center">
+  <h1> Autorias </h1>
+  <p> Pasta dedicada a arquivar às autorias da matéria de Lógica Computacional </p>
+  
+  <br><br><br>
+  
+  <kbd><img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47hfxc17ex5hmxp89nvacvq6yf9bfxf82zr3mmqt83&rid=200.webp&ct=g"></kbd>
+
+</div>
+<br>
