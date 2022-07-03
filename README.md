@@ -11,7 +11,6 @@
 </div>
 <hr>
 
-### Meus gostos:
 ### 👀 Meus Gostos
 - Voleibol;
 - Escotismo;
