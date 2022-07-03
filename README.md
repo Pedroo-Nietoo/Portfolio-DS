@@ -36,7 +36,8 @@
 
 <hr>
  
- <h3 align="Center"> Justificativa das atividades escolhidas </h3>
+ <h2 align="Center"> Justificativa das atividades escolhidas </h3>
+ <h3> Primeiro trimestre </h3>
  
  ### Fundamentos de Design
  - Cassineiro: Escolhi o <i> Cassineiro </i> pois eu e meus amigos temos vontade de realizar esse projeto desde o ano passado. Poder ter feito um protótipo de como seria me deixa muito feliz! 
