@@ -16,3 +16,22 @@
 - Aprendendo Scanner: Escolhi essa atividade pois ela representa um pouco de tudo que aprendemos através do site <i> OnlineGDB </i>;
 - Calcular Média: Eu pus essa atividade por ser minha primeira interação com GUIs utilizando o JOptionPane em sala de aula. <br>
 - Números Primos: Por ter sido uma atividade desafiadora e interessante, decidi colocá-la no portfólio.
+
+<hr>
+
+<h3> Segundo trimestre: </h3>
+ 
+#### Fundamentos de Redes
+ - 1
+ - 2
+ - 3
+
+#### Fundamentos de TI
+- 1
+- 2
+- 3
+
+#### Lógica Computacional
+- 1
+- 2
+- 3
