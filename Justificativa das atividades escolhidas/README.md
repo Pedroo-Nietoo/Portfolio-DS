@@ -17,7 +17,7 @@
 - Calcular Média: Eu pus essa atividade por ser minha primeira interação com GUIs utilizando o JOptionPane em sala de aula. <br>
 - Números Primos: Por ter sido uma atividade desafiadora e interessante, decidi colocá-la no portfólio.
 
-<hr>
+<br> <hr> <br>
 
 <h3> Segundo trimestre: </h3>
  
