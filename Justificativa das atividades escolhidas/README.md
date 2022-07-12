@@ -1,6 +1,6 @@
 <h2 align="Center"> Justificativa das atividades escolhidas </h3>
  
- <h3> Primeiro trimestre: </h3>
+ <h3> 🥇 Primeiro trimestre: </h3>
  
  #### Fundamentos de Design
  - Cassineiro: Escolhi o <i> Cassineiro </i> pois eu e meus amigos temos vontade de realizar esse projeto desde o ano passado. Poder ter feito um protótipo de como seria me deixa muito feliz! 
@@ -17,9 +17,9 @@
 - Calcular Média: Eu pus essa atividade por ser minha primeira interação com GUIs utilizando o JOptionPane em sala de aula. <br>
 - Números Primos: Por ter sido uma atividade desafiadora e interessante, decidi colocá-la no portfólio.
 
-<br> <hr> <br>
+<br> <hr>
 
-<h3> Segundo trimestre: </h3>
+<h3> 🥈 Segundo trimestre: </h3>
  
 #### Fundamentos de Redes
  - 1
