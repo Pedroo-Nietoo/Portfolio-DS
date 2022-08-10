@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Autorias </h1>
-  <p> Pasta dedicada a arquivar às autorias da matéria de Lógica Computacional </p>
+  <h1> Atividades e Autorias </h1>
+  <p> Pasta dedicada a arquivar as atividades e autorias da matéria de Lógica Computacional </p>
   
   <br><br><br>
   
