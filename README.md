@@ -37,5 +37,3 @@
  <li>Inglês;</li>
  <li>Espanhol.</li>
 </ul>
-
-<https://github.com/Schweinepriester/github-profile-achievements>
