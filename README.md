@@ -30,10 +30,3 @@
  <li>Trabalho em equipe;</li>
  <li>Gerenciamento de tempo.</li>
 </ul>
-
-<h3> 4. Línguas 🗺 </h3>
-<ul>
- <li>Português;</li>
- <li>Inglês;</li>
- <li>Espanhol.</li>
-</ul>
