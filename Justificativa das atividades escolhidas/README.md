@@ -31,5 +31,5 @@
 -
 
 #### Lógica Computacional
-- Prismas: Escolhi essa atividade pois sempre quis programar utilizando mais funções e parâmetros que pudessem ser puxados para o Main, mas tinha muita dificuldade. Foi justamente nessa atividade que entendi o necessário para poder realizar isso. 
+- Prismas: Escolhi essa atividade pois sempre quis programar utilizando mais funções e parâmetros que pudessem ser puxados para o Main, mas tinha muita dificuldade. Foi justamente nessa atividade que entendi o necessário para poder realizar isso;
 - Array: Achei a atividade muito intuitiva e divertida. É impressionante o que podemos fazer com programação (criamos frases armazenando palavras em uma Array e utilizando outras estruturas para colocá-las na posição correta para formar a frase que desejamos).
