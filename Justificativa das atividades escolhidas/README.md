@@ -22,16 +22,14 @@
 <h3> 🥈 Segundo trimestre: </h3>
  
 #### Fundamentos de Redes
- - 1
- - 2
- - 3
+ - Rede Teste: Coloquei essa atividade pois adorei mexer no Cisco Packet Tracer e ver o funcionamento de redes de outro modo. Me interessei muito na aplicação.
+ -
 
 #### Fundamentos de TI
-- 1
-- 2
-- 3
+-
+-
+-
 
 #### Lógica Computacional
-- 1
-- 2
-- 3
+- Prismas: Escolhi essa atividade pois sempre quis programar utilizando mais funções e parâmetros que pudessem ser puxados para o Main, mas tinha muita dificuldade. Foi justamente nessa atividade que entendi o necessário para poder realizar isso. 
+- Array: Achei a atividade muito intuitiva e divertida. É impressionante o que podemos fazer com programação (criamos frases armazenando palavras em uma Array e utilizando outras estruturas para colocá-las na posição correta para formar a frase que desejamos).
