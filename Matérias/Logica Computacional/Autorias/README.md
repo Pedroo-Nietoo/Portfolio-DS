@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Autorias </h1>
-  <p> Pasta dedicada a arquivar às autorias da matéria de Lógica Computacional </p>
+  <p> Pasta dedicada a arquivar às autorias da matéria de Lógica Computacional (necessárias somente a partir do terceiro ano)</p>
   
   <br><br><br>
   
