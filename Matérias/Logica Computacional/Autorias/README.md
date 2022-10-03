@@ -4,7 +4,7 @@
   
   <br>
   
-  <kbd><img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47hfxc17ex5hmxp89nvacvq6yf9bfxf82zr3mmqt83&rid=200.webp&ct=g"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/102625628/193612439-96f61502-23fc-46e6-acbb-4ec3eaab740b.gif"></kbd>
 
 </div>
 <br>
