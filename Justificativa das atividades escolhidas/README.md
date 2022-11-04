@@ -36,7 +36,7 @@
 
 <hr>
 
-h3> 🥉 Terceiro trimestre: </h3>
+<h3> 🥉 Terceiro trimestre: </h3>
  
 #### Fundamentos de Redes
  -
