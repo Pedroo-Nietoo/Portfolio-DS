@@ -28,7 +28,8 @@
  - Duas LANS: Achei interessante colocar essa atividade pois, além de compreender de maneira mais prática e interessante sobre o funcionamento da criação de redes LAN, acho muito legal mexer no Cisco Packet Tracer e pretendo futuramente realizar um curso técnico de Redes. 
 
 #### Fundamentos de TI
-> **Warning** <br>
+> **Warning** 
+<br>
 Por conta da saída da professora Maria durante o segundo trimestre, não colocarei a justificativa das atividades ecolhidas.
 
 #### Lógica Computacional
