@@ -1,72 +1,30 @@
---
--- PostgreSQL database dump
---
+CREATE table Vendedor(	
+  Nome VARCHAR(50)not null,
+  CPF VARCHAR(14)not null,
+  Telefone VARCHAR(15),
+  salario VARCHAR(10)not null,
+  PRIMARY KEY(Cpf)
+)
 
--- Dumped from database version 14.5 (Debian 14.5-1.pgdg110+1)
--- Dumped by pg_dump version 14.5 (Debian 14.5-1.pgdg110+1)
+CREATE TABLE Cliente(
+  Nome VARCHAR(50)not null,
+  CPF VARCHAR(14)not NULL,
+  nWhatsapp VARCHAR(20),
+  Produtos_consumidos VARCHAR(20)not NULL,
+  PRIMARY KEY(Cpf)
+)
 
-SET statement_timeout = 0;
-SET lock_timeout = 0;
-SET idle_in_transaction_session_timeout = 0;
-SET client_encoding = 'UTF8';
-SET standard_conforming_strings = on;
-SELECT pg_catalog.set_config('search_path', '', false);
-SET check_function_bodies = false;
-SET xmloption = content;
-SET client_min_messages = warning;
-SET row_security = off;
-
-SET default_tablespace = '';
-
-SET default_table_access_method = heap;
-
---
--- Name: demo; Type: TABLE; Schema: public; Owner: -
---
-
-CREATE TABLE public.demo (
-    id integer NOT NULL,
-    name character varying(200) DEFAULT ''::character varying NOT NULL,
-    hint text DEFAULT ''::text NOT NULL
-);
-
-
---
--- Name: demo_id_seq; Type: SEQUENCE; Schema: public; Owner: -
---
-
-CREATE SEQUENCE public.demo_id_seq
-    AS integer
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
---
--- Name: demo_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: -
---
-
-ALTER SEQUENCE public.demo_id_seq OWNED BY public.demo.id;
-
-
---
--- Name: demo id; Type: DEFAULT; Schema: public; Owner: -
---
-
-ALTER TABLE ONLY public.demo ALTER COLUMN id SET DEFAULT nextval('public.demo_id_seq'::regclass);
-
-
---
--- Name: demo demo_pkey; Type: CONSTRAINT; Schema: public; Owner: -
---
-
-ALTER TABLE ONLY public.demo
-    ADD CONSTRAINT demo_pkey PRIMARY KEY (id);
-
-
---
--- PostgreSQL database dump complete
---
-
+CREATE TABLE Produto(
+  Tipo VARCHAR(10)not NULL,
+  Ingrediantes VARCHAR(20)not NULL,
+  Nome VARCHAR(15)not NULL,
+  Preço INT not NULL,
+  Identificador INT not null,
+  CPF_Vendedor VARCHAR(14)NOT NULL,
+  CPF_Cliente VARCHAR(14)not null,
+  PRIMARY KEY(Identificador),
+  FOREIGN KEY (CPF_Vendedor)
+  REFERENCES Vendedor (CPF_Vendedor),
+  FOREIGN KEY (CPF_Cliente)
+  REFERENCES Cliente (CPF_Cliente)
+)
