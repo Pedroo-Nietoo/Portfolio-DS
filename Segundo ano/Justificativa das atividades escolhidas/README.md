@@ -19,6 +19,10 @@
 - Calcular Média: Eu pus essa atividade por ser minha primeira interação com GUIs utilizando o JOptionPane em sala de aula. <br>
 - Números Primos: Por ter sido uma atividade desafiadora e interessante, decidi colocá-la no portfólio.
 
+<hr>
+
+<h3> 🥈 Segundo trimestre: </h3>
+
 #### Fundamentos de Redes
  - Rede Teste: Coloquei essa atividade pois adorei mexer no Cisco Packet Tracer e ver o funcionamento de redes de outro modo. Me interessei muito na aplicação.
  - Duas LANS: Achei interessante colocar essa atividade pois, além de compreender de maneira mais prática e interessante sobre o funcionamento da criação de redes LAN, acho muito legal mexer no Cisco Packet Tracer e pretendo futuramente realizar um curso técnico de Redes. 
