@@ -19,17 +19,11 @@
 - Calcular Média: Eu pus essa atividade por ser minha primeira interação com GUIs utilizando o JOptionPane em sala de aula. <br>
 - Números Primos: Por ter sido uma atividade desafiadora e interessante, decidi colocá-la no portfólio.
 
-@@ -23,26 +23,31 @@
-
 #### Fundamentos de Redes
  - Rede Teste: Coloquei essa atividade pois adorei mexer no Cisco Packet Tracer e ver o funcionamento de redes de outro modo. Me interessei muito na aplicação.
- -
  - Duas LANS: Achei interessante colocar essa atividade pois, além de compreender de maneira mais prática e interessante sobre o funcionamento da criação de redes LAN, acho muito legal mexer no Cisco Packet Tracer e pretendo futuramente realizar um curso técnico de Redes. 
 
 #### Fundamentos de TI
--
--
--
 > **Warning** <br>
 Por conta da saída da professora Maria durante o segundo trimestre, não colocarei a justificativa das atividades ecolhidas.
 
@@ -43,15 +37,10 @@ Por conta da saída da professora Maria durante o segundo trimestre, não coloca
 <h3> 🥉 Terceiro trimestre: </h3>
 
 #### Fundamentos de Redes
- -
- - Rede DHCP: 
- - Subredes: 
+ - Rede DHCP: Achei o funcionamento do DHCP incrível e de extrema utilidade em redes, facilitando o processo de escolha dos endereços de IP. Por isso, escplhi essa atividade para ir no meu portfólio.
+ - Subredes: O cálculo de subredes foi complicado e um pouco difícil de entender, mas acabei entendendo o necessário para poder realizar as atividades propostas pela professora; e por isso a atividade foi para me portfólio. 
 
 #### Fundamentos de Banco de Dados
--
-
-#### Lógica Computacional
--
 - Chave Estrangeira: Meu primeiro contato com bancos de dados aqui no SENAI foi incrível, mas, mesmo assim, tive algumas dificuldades; a principal dificuldade no começo foi entender sobre as chaves estrangeiras. Após certo tempo consegui entender e, por conta disso, a anexei como uma das atividades.
 - Diagrama MER: Achei muito legal construir diagramas MER, já que isso facilita minha visão de como será a construção do meu banco de dados; e foi justamente por conta disso que resolvi colocá-la no portfólio.
 - Hot Dog: O "projeto" do Hot Dog (criação de um MER e um banco de dados de uma venda de cachorros-quentes) foi o primeiro projeto que tivemos na matéria de Banco de Dados, e achei muito legal. Espero poder produzir mais coisas como essa.
