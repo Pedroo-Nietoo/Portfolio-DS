@@ -29,7 +29,7 @@
 
 #### Fundamentos de TI
 > **Warning** 
-<br>
+
 Por conta da saída da professora Maria durante o segundo trimestre, não colocarei a justificativa das atividades ecolhidas.
 
 #### Lógica Computacional
