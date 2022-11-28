@@ -2,16 +2,6 @@
   <h1> Situação de Aprendizagem - 2° ano do Ensino Médio </h1>
 </div>
 
-<h3> Como usar? </h3>
-<p> Para acessar a SA, siga os seguintes passos:
-<ol>
-  <li>Faça o download do arquivo <code>SA.zip</code>;</li>
-  <li>Entre na pasta <code>dist</code>;</li>
-  <li>Clique duas vezes sobre o arquivo <code>SA.jar</code>.</li>
-</ol>
-
-<hr>
-
 <p>
   Grupo:
   <a href="https://github.com/Pedroo-Nietoo">
@@ -34,3 +24,15 @@
     @Bernardo-Mattos
   </a>
 </p>
+
+<h3> Como usar? </h3>
+<p> Para acessar a SA, siga os seguintes passos:
+<ol>
+  <li>Faça o download do arquivo <code>SA.zip</code>;</li>
+  <li>Entre na pasta <code>dist</code>;</li>
+  <li>Clique duas vezes sobre o arquivo <code>SA.jar</code>.</li>
+</ol>
+
+<hr>
+
+<h3> Requisitos funcionais e não funcionais</h3>
