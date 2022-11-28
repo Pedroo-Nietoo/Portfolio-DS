@@ -35,4 +35,16 @@
 
 <hr>
 
-<h3> Requisitos funcionais e não funcionais</h3>
+<h3> Especificação de requisitos</h3>
+
+<h4>Requisitos funcionais:</h4>
+<p>
+  <b>Cadastrar:</b> Todos os campos devem estar preenchidos (nome, idade, CPF, matrícula e horário da academia. Após isso, uma mensagem de confirmação aparecerá.<br>
+  <b>Listar:</b> Lista os usuários cadastrados. Caso não haja nenhum usuário cadastrado, ao clicar no botão de listar, o mesmo infor a ao usuário que não há usuários cadastrados.<br>
+  <b>Editar:</b> O campo de matrícula deve estar preenchido. Ao preencher o campo e clicar no botão, uma mensagem aparecerá perguntando ao usuário qual dado deseja alterar (nome, idade, CPF, matrícula ou horário da academia). Selecionando uma das opções, outra mensagem aparecerá pedindo para que o usuário escreva a nova informação que substituirá a informação antiga. Por fim, uma mensagem de confirmação aparecerá.<br>
+  <b>Excluir:</b> O campo de matrícula deve estar preenchido Ao preencher o campo e clicar no botão, uma mensagem de confirmação aparecerá.</p><br>
+  
+desktop w e linux
+arraylist
+arquitetura somente cliente
+múltiplas telas
