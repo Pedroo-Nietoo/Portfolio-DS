@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Sistema Avaliativo - 1° ano do Ensino Médio </h1>
+  <h1> Sistema Avaliativo - 2° ano do Ensino Médio </h1>
 </div>
 
 <h3> Como usar? </h3>
