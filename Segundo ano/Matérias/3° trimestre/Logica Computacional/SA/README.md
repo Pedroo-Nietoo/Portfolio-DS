@@ -52,7 +52,7 @@
 <h4>Requisitos não funcionais:</h4>
 <ul>
   <li>Armazena os dados em ArrayList;</li>
-  <li>Arquitetora somente do lado do cliente (sem servidor);</li>
+  <li>Arquitetura somente do lado do cliente (sem servidor);</li>
   <li>Aplicação com múltiplas telas;</li>
   <li>Programado em Java;</li>
   <li>Funciona tanto no SO Windows quanto no Linux.</li>
