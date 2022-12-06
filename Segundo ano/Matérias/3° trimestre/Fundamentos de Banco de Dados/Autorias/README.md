@@ -13,7 +13,7 @@
 <p>Ao acessar sites com vulnerabilidades em sua base de dados SQL, como o site <a href="http://altoromutual.com:8080/login.jsp">Altoro Mutual</a>, podemos utilizar da injeção de SQL para acessar a página como o administrador da mesma. Para isso, leia o site disponibilizado no primeiro parágrafo para ter os conhecimentos básicos e, em seguida, tente acessar utilizando algumas opções no campo de administrador. Exemplo abaixo:</p>
 
 <p> Imagine que o código do banco de dados, ao procurar as informações de login, seja o seguinte:</p>
-<h3>SELECT * FROM login WHERE username = "admin" AND password = "senhadoadmin123"</h3>
+<h3><i>SELECT * FROM login WHERE username = "admin" AND password = "senhadoadmin123"</i></h3>
 <p>Pela estrutura do código ser utilizada sem nenhuma validação de dados, é possível "enganar" o banco de dados do site colocando qualquer senha no campo de senha e, ao colocar o nome de usuário, pôr da seguinte forma:</p>
 
 <ul>
