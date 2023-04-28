@@ -21,7 +21,6 @@
  <li>Empatia;</li>
  <li>Liderança;</li>
  <li>Comunicação;</li>
- <li>Organização;</li>
  <li>Curiosidade;</li>
  <li>Organização;</li>
  <li>Proatividade;</li>
