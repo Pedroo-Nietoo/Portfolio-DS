@@ -17,3 +17,23 @@
 - **Teste de Caso - Patoladora:** Nessa atividade, testei o aplicativo de meus colegas contendo um erro proposital, mostrando o que deveria ser feito para resolver o bug encontrado. Pela diversão e experiência nova, adicionei ao portfólio.
 
 <hr>
+
+<h3> 🥈 Segundo trimestre: </h3>
+
+#### Banco de Dados
+- **Select:** Texto.
+- **Junção de Tabelas:** Texto.
+
+#### Desenvolvimento de Sistemas
+- **Lista Telefônica em JavaScript:** Texto.
+- **Tipos de Dados:** Texto.
+
+#### Programação de Aplicativos
+- **10 tarefas de JavaScript:** Texto.
+- **Regex:** Texto.
+
+#### Testes de Sistemas
+- **Testes do Pager:** Texto.
+- **Atividades de Testes:** Texto.
+
+<hr>
