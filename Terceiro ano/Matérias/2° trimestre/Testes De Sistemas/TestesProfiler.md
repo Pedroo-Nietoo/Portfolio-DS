@@ -1,0 +1,1 @@
+[Documento dos testes com Profiler](https://docs.google.com/document/d/19AbOdXG8xHmug4l-Fzi9yHBeSfPrKHDYidUx2eTv7oA/edit?usp=drive_web&authuser=1)
