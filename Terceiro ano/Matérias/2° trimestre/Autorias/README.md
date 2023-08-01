@@ -1,0 +1,1 @@
+Autoria 1 - Início da [Autoria do TCC](https://github.com/Hugu-Team)
