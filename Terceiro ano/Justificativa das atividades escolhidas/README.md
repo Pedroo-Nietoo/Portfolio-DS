@@ -37,3 +37,17 @@
 - **Atividades de Testes:** Aprendemos um pouco sobre os tipos de teste através dessa atividade. Foi ua boa atividade para estudo para a avaliação oral.
 
 <hr>
+
+<h3> 🥉 Terceiro trimestre: </h3>
+
+#### Desenvolvimento de Sistemas
+- **LandingPage em React:** Realizei a atividade proposta pela professora, para simular uma lista telefônica simples em JS. Escolhi essa atividade por gostar da linguagem.
+- **Tipos de Dados:** Considero essa atividade crucial para estar no portfólio, uma vez que tipos de dados serão essenciais ao longo de nossa jornada no ramo da programação, além de nos guiar para outras linguagens que utilizam bastante o tipo/tipagem (TS, Java, etc).
+
+#### Programação de Aplicativos
+- **10 tarefas de JavaScript:** Escolhi essa atividade pois acredito que tenha sido uma atividade boa para fortalecer meus conhecimentos em relação à linguagem. 
+- **Regex:** Regex possui certa importânica quando falamos de validação de dados fornecidos, e o escolhi essa atividade por isso.
+
+#### Testes de Sistemas
+- **Testes do Pager:** Aprendemos a utilizar os testes do Pager do Android Studio para testar nosso aplicativo em relação à Memória, Bateria, Rede, etc. Adorei produzir apps para o Android Studio. Uma pena que não terá mais...(aguardo React Native).
+- **Atividades de Testes:** Aprendemos um pouco sobre os tipos de teste através dessa atividade. Foi ua boa atividade para estudo para a avaliação oral.

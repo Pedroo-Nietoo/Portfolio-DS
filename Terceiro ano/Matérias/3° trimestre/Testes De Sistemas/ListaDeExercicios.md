@@ -1,0 +1,1 @@
+[Lista de exercícios sobre Testes de Sistemas](https://docs.google.com/document/d/1NK0rNQtBFblqvGB3JQ-6HmNDxxFovM1vtJBqrqQwUpI/edit?usp=drive_web&authuser=1)
